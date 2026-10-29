@@ -1,0 +1,2 @@
+type = "header-only-library"
+name = "toml"
